@@ -14,6 +14,7 @@
     "next": "latest"
   },
   "devDependencies": {
+    "ethereum-cryptography": "^1.1.2",
     "typescript": "latest",
     "@types/react": "latest",
     "@types/node": "latest",
